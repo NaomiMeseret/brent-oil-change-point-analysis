@@ -1,0 +1,28 @@
+Date,Event,Type,Description,Expected_Impact
+1990-08-02,Iraq invades Kuwait,Military Conflict,"Iraq's invasion of Kuwait triggered the Gulf War, disrupting oil supplies from both countries",High
+1991-01-17,Gulf War begins,Military Conflict,"Operation Desert Storm began, creating uncertainty in oil markets",High
+1997-07-01,Asian Financial Crisis,Economic Crisis,"Severe currency crisis affected global oil demand",Medium
+1998-12-01,OPEC Production Increase,OPEC Policy,"OPEC increased production quotas, leading to price decline",Medium
+2001-09-11,9/11 Terrorist Attacks,Geopolitical Event,"Attacks created economic uncertainty and affected oil demand",High
+2003-03-20,Iraq War begins,Military Conflict,"US-led invasion of Iraq disrupted regional oil supplies",High
+2005-08-29,Hurricane Katrina,Natural Disaster,"Hurricane damaged Gulf of Mexico oil infrastructure",High
+2008-07-03,Oil Price Peak,Market Event,"Brent oil reached record high of $147/barrel",High
+2008-09-15,Global Financial Crisis,Economic Crisis,"Lehman Brothers collapse triggered global recession",High
+2010-04-20,Deepwater Horizon Disaster,Environmental Disaster,"BP oil spill disrupted Gulf of Mexico production",Medium
+2011-02-15,Arab Spring begins,Political Unrest,"Political upheaval across Middle East created supply uncertainty",High
+2011-03-19,Libya Civil War,Military Conflict,"Civil war disrupted Libya's oil production",High
+2014-06-01,OPEC Production Increase,OPEC Policy,"OPEC maintained production despite falling prices, starting price war",High
+2014-11-27,OPEC Refuses Production Cut,OPEC Policy,"Decision not to cut production accelerated price decline",High
+2015-07-14,Iran Nuclear Deal,Political Agreement,"Lifting of sanctions on Iran increased global oil supply",Medium
+2016-01-16,International Sanctions on Iran,Political Sanctions,"Sanctions lifted, allowing Iranian oil exports",Medium
+2016-11-30,OPEC Production Cut Agreement,OPEC Policy,"First production cut agreement in 8 years",High
+2018-05-08,US withdraws from Iran Nuclear Deal,Political Decision,"Re-imposition of sanctions on Iran",Medium
+2019-09-14,Saudi Aramco Attacks,Military Attack,"Drone attacks on Saudi oil facilities disrupted supply",High
+2020-01-08,Iran-US tensions,Military Conflict,"Iran attacked US bases in Iraq after Soleimani killing",Medium
+2020-03-06,OPEC+ Price War,OPEC Policy,"Saudi Arabia and Russia failed to agree on production cuts",High
+2020-03-11,WHO declares COVID-19 Pandemic,Health Crisis,"Global lockdowns collapsed oil demand",High
+2020-04-20,Negative Oil Prices,Market Event,"WTI futures turned negative for first time in history",High
+2021-07-01,OPEC+ Production Increases,OPEC Policy,"Gradual production increases as demand recovered",Medium
+2022-02-24,Russia invades Ukraine,Military Conflict,"Invasion created massive supply uncertainty and sanctions",High
+2022-03-08,US bans Russian oil imports,Political Sanctions,"Major consumer banned Russian oil imports",High
+2022-12-05,G7 Price Cap on Russian Oil,Political Policy,"Price cap mechanism implemented on Russian oil",Medium
