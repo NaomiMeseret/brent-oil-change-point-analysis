@@ -3,7 +3,11 @@
 This project analyzes Brent oil price behavior and links structural breaks to major geopolitical and economic events.  
 It combines time-series analysis notebooks with a Flask + React dashboard for exploration.
 
-![Brent Oil Dashboard Screenshot](reports/screenshots/Screenshot%202026-02-17%20at%2010.20.47%20at%20night.png)
+![Brent Oil Dashboard Screenshot](reports/screenshots/Screenshot%202026-02-17%20at%2010.09.45%20at%20night.png)
+
+![Brent Oil Dashboard  change points Screenshot](reports/screenshots/Screenshot%202026-02-17%20at%2010.10.01%20at%20night.png)
+
+![Brent Oil Dashboard Events Screenshot](reports/screenshots/Screenshot%202026-02-17%20at%2010.20.47%20at%20night.png)
 
 ## Project Scope
 
